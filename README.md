@@ -1,6 +1,6 @@
-sudo apt update-y
-sudo apt update-y
-sudo apt install git-y
+sudo apt update -y
+sudo apt update -y
+sudo apt install git -y
 git clone
 cd Tool-X 
 chmod +x *
